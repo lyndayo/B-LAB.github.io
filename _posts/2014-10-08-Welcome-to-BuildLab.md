@@ -3,4 +3,4 @@ layout: post
 title: Welcome to iHub Research | BuildLab
 ---
 
-Hey Lynda
+Hey World, I'm Lynda!
